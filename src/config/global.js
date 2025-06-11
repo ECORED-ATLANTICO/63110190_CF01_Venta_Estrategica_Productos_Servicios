@@ -1,9 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Productos y servicios en el mercado',
+    Description:
+      'El módulo Productos y servicios en el mercado proporciona las bases para comprender las características de productos, servicios y portafolios de venta, junto con el análisis del perfil y la segmentación del cliente. Este conocimiento permite al aprendiz identificar los atributos de la oferta comercial y relacionarlos con distintos tipos de clientes, con el fin de estructurar propuestas de valor pertinentes en escenarios reales de venta.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-portada.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,13 +36,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Producto y servicio',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Producto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Servicio',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,14 +55,48 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Portafolio de ventas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Características',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Tipos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Pasos para elaborar portafolio',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Cliente',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Características',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Tipos',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Segmentación',
+            hash: 't_3_3',
+          },
+        ],
       },
     ],
     subMenu: [

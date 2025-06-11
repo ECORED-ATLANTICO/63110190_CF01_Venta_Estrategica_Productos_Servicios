@@ -1,32 +1,77 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 20%
-    right: 10%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
+
+.banner-principal-decorativo
+  &-1
+    top: 48%
+    left: -1%
+    position: absolute
+    animation: float1 2.8s ease-in-out infinite alternate
+  &-2
+    top: 60%
+    left: 60%
+    position: absolute
+    animation: float1 2.8s ease-in-out infinite alternate
+  &-3
+    top: 25%
+    right: 10%
+    position: absolute
+    animation: float1 2.8s ease-in-out infinite alternate
+
+.banner-interno__fondo 
+  background-image: url('../assets/curso/portada/fondo-banner-principal.png') !important
+
 .banner-principal .tarjeta
-  background-position: left 50% !important
+  background-position: left 50% !important 
 
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
+.banner-principal .tarjeta
+  background-image: url('../assets/curso/portada/fondo-banner-principal-mobile.png') !important
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+@media (min-width: 426px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal-tablet.png') !important
+    padding-right: 130px
+
+@media (min-width: 769px)
+  .banner-principal .tarjeta
+    padding-right: 0
+    overflow: hidden
+
+@media (min-width: 1023px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-portada.png') !important
+
+.banner-principal__row 
+  .banner-principal__img
+    width: 405px
+    padding-bottom: 0 !important
+    padding-top: 0 !important
+    
+@media (min-width: 1025px)
+  .banner-principal__row .banner-principal__img
+    width: 505px
+
+.titulo-principal__numero
+  min-width: 45px
+  height: 45px
+  margin-right: 15px
+  position: relative
+  background-color: $color-acento-contenido !important
+
+.titulo-principal.color-acento-contenido
+  color: $color-sistema-texto !important
+
+.titulo-principal__numero span
+  color: $color-sistema-texto !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
-figcaption
-  font-weight: normal
+.banner-interno__titulo h2
+  color: $color-sistema-texto !important
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: $color-sistema-texto
