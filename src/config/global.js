@@ -146,22 +146,156 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Portafolio de ventas',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024, 15 de noviembre). Portafolio de productos y servicios [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=DWjhZ4fNVuk',
+    },
+    {
+      tema: 'Portafolio de ventas',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (s.f.). Portafolio y características del producto [Video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=QrJ2hZkRpiM&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Análisis de mercado',
+      significado:
+        'estudio de las condiciones del mercado para tomar decisiones informadas.',
+    },
+    {
+      termino: 'Ciclo de vida del producto',
+      significado:
+        'fases que atraviesa un producto desde su creación hasta su declive.',
+    },
+    {
+      termino: 'Cliente',
+      significado: 'persona que adquiere un producto o servicio.',
+    },
+    {
+      termino: 'Clientes leales',
+      significado: 'aquellos que tienen una relación continua con una marca.',
+    },
+    {
+      termino: 'Clientes nuevos',
+      significado: 'aquellos que compran por primera vez.',
+    },
+    {
+      termino: 'Clientes potenciales',
+      significado:
+        'aquellos que están interesados en los productos, pero aún no compran.',
+    },
+    {
+      termino: 'Clientes recurrentes',
+      significado: 'aquellos que realizan compras repetidas.',
+    },
+    {
+      termino: 'Comportamiento de compra',
+      significado:
+        'estudio de las decisiones de los consumidores al adquirir productos.',
+    },
+    {
+      termino: 'Comportamiento del consumidor',
+      significado:
+        'estudio de cómo los consumidores toman decisiones de compra.',
+    },
+    {
+      termino: 'Demografía',
+      significado: 'estudio de las características de una población.',
+    },
+    {
+      termino: 'Demografía de mercado',
+      significado: 'características estadísticas de los consumidores.',
+    },
+    {
+      termino: 'Estrategia de marketing',
+      significado: 'plan para promocionar productos y servicios.',
+    },
+    {
+      termino: 'Geografía',
+      significado: 'estudio de las ubicaciones y sus efectos sobre el consumo.',
+    },
+    {
+      termino: 'Innovación',
+      significado: 'introducción de nuevos productos o mejoras significativas.',
+    },
+    {
+      termino: 'Lealtad',
+      significado: 'preferencia continua por una marca.',
+    },
+    {
+      termino: 'Mercado objetivo',
+      significado:
+        'grupo de consumidores al que se dirige una estrategia de marketing.',
+    },
+    {
+      termino: 'Perfil del cliente',
+      significado: 'descripción detallada de un cliente ideal.',
+    },
+    {
+      termino: 'Posicionamiento de marca',
+      significado: 'percepción del consumidor sobre una marca en el mercado.',
+    },
+    {
+      termino: 'Producto de consumo',
+      significado: 'producto destinado al uso personal del consumidor.',
+    },
+    {
+      termino: 'Producto industrial',
+      significado: 'producto utilizado en la producción de otros bienes.',
+    },
+    {
+      termino: 'Promoción',
+      significado: 'estrategias de marketing para atraer a los clientes.',
+    },
+    {
+      termino: 'Psicografía',
+      significado: 'estudio de los intereses y valores de los consumidores.',
+    },
+    {
+      termino: 'Publicidad',
+      significado: 'comunicación pagada para promover productos.',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'dividir un mercado en grupos de consumidores con características similares.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Chiavenato, I. (2006). Introducción a la teoría general de la administración (7. ª ed.). McGraw-Hill. ',
+      link:
+        'https://frrq.cvg.utn.edu.ar/pluginfile.php/15525/mod_resource/content/0/Chiavenato%20Idalverto.%20Introducci%C3%B3n%20a%20la%20teor%C3%ADa%20general%20de%20la%20Administraci%C3%B3n.pdf',
+    },
+    {
+      referencia:
+        'Churchill, G. A., & Iacobucci, D. (2010). Investigación de mercados: Fundamentos metodológicos (10.ª ed.). Cengage Learning. Versión en español (PDF): ',
+      link:
+        'https://usfx.bo/Documentos/RepositorioLibros/Investigacion_de_mercados.pdf',
+    },
+    {
+      referencia:
+        'Kotler, P., & Armstrong, G. (2017). Principios de marketing (17.ª ed.). Pearson Education. ',
+      link:
+        'https://campus.eco.unlpam.edu.ar/pluginfile.php/154367/mod_resource/content/1/Marketing%20Kotler-Armstrong.pdf',
+    },
+    {
+      referencia:
+        'Kotler, P., & Keller, K. L. (2016). Dirección de marketing (15.ª ed.). Pearson Educación. Versión en español (PDF): ',
+      link:
+        'https://www.leo.edu.pe/wp-content/uploads/2019/12/direccion-de-marketing-philip-kotler-1.pdf',
+    },
+    {
+      referencia:
+        'Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). Marketing de servicios: Integración del enfoque en el cliente en toda la empresa (7.ª ed.). McGraw-Hill Education. Versión en español (PDF): ',
+      link:
+        'https://gc.scalahed.com/recursos/files/r161r/w20726w/El%20marketing%20de%20servicios_compressed.pdfScalahed+2Scalahed+2',
     },
   ],
   creditos: [
