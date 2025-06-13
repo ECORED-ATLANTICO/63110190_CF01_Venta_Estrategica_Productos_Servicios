@@ -43,8 +43,10 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
@@ -64,12 +66,15 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
-          texto: 'Un bien de consumo duradero es aquel que se agota con un solo uso.',
+          texto:
+            'Un bien de consumo duradero es aquel que se agota con un solo uso.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -84,8 +89,10 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
@@ -105,12 +112,15 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
-          texto: 'Las características del producto incluyen calidad, diseño, marca y empaque.',
+          texto:
+            'Las características del producto incluyen calidad, diseño, marca y empaque.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -125,8 +135,10 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
@@ -146,8 +158,10 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
@@ -167,8 +181,10 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
@@ -188,8 +204,10 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
@@ -209,8 +227,10 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
@@ -230,8 +250,10 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 11,
@@ -251,8 +273,10 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 12,
@@ -272,8 +296,10 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
@@ -293,8 +319,10 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
@@ -314,8 +342,10 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 15,
@@ -335,8 +365,10 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: 'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
-          mensaje_incorrecto: 'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
