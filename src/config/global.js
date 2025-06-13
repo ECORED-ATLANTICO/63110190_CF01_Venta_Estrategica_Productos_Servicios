@@ -295,7 +295,7 @@ export default {
       referencia:
         'Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). Marketing de servicios: Integración del enfoque en el cliente en toda la empresa (7.ª ed.). McGraw-Hill Education. Versión en español (PDF): ',
       link:
-        'https://gc.scalahed.com/recursos/files/r161r/w20726w/El%20marketing%20de%20servicios_compressed.pdfScalahed+2Scalahed+2',
+        'https://gc.scalahed.com/recursos/files/r161r/w20726w/El%20marketing%20de%20servicios_compressed.pdf',
     },
   ],
   creditos: [
