@@ -212,7 +212,7 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
+            'Entre los tipos de servicio se encuentran los personales, públicos y profesionales.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -235,19 +235,19 @@ export default {
         {
           id: 10,
           texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
+            'La variabilidad no afecta la calidad del servicio, ya que siempre es uniforme.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -258,19 +258,19 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
+            'El portafolio de ventas permite presentar de manera organizada los productos y servicios de una empresa.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
@@ -281,19 +281,19 @@ export default {
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
+            'Una característica del portafolio es que no requiere actualización frecuente.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -304,7 +304,7 @@ export default {
         {
           id: 13,
           texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
+            'El portafolio debe responder a las necesidades del cliente y a las condiciones del mercado.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -327,7 +327,30 @@ export default {
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+            'Un portafolio mal estructurado puede afectar la percepción del cliente sobre la empresa.',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 15,
+          texto:
+            'El portafolio debe ser extenso, sin importar la claridad de la información.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -348,9 +371,101 @@ export default {
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 15,
+          id: 16,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+            'El portafolio amplio ofrece una gran variedad de productos, diversificando la oferta.',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 17,
+          texto:
+            'Un portafolio profundo ofrece múltiples versiones de un mismo producto.',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 18,
+          texto:
+            'Un portafolio especializado se enfoca en una categoría específica y mejora el posicionamiento',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 19,
+          texto:
+            'El portafolio simple es ideal para empresas que desean llegar a muchos mercados distintos.',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre los productos y servicios.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 20,
+          texto:
+            'Un portafolio híbrido combina diferentes tipos para atender distintos segmentos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
