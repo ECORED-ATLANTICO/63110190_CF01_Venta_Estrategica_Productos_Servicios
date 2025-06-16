@@ -19,48 +19,47 @@
       .h2(data-aos="fade-right") 3.1	Características
     .mb-3
 
-    .bg_img_2.mb-3
-      .row.justify-content-center.align-items-center
+    .bg_img_3.mb-3
+      .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-11.order-2.order-lg-1.mb-0
           p.mb-3 El cliente es el punto de partida y el destino de toda acción comercial; es la razón por la que una estrategia cobra sentido y hacia quien deben orientarse cada idea, cada decisión y cada esfuerzo. Las características de los clientes no solo dependen de sus necesidades, sino también de sus comportamientos, valores y actitudes hacia los productos y servicios ofrecidos. A continuación, se detallan las principales características y perfiles de los clientes:
         .col-4.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema_3/img_2.svg', class="img-fluid")
 
+      .tarjeta.tarjeta--fondo__slider.p-4.mb-5
+        SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
+          .row.justify-content-center.align-items-center
+            .col-12.col-lg-6.order-2.order-lg-1.mb-0
+              h4 Demográficas 
+              p Los clientes pueden diferir según su edad, género, nivel de ingresos, educación, ocupación, entre otras. Esta información es vital para crear campañas de marketing personalizadas y segmentadas. Por ejemplo, los jóvenes adultos (18-34 años) suelen estar más interesados en productos tecnológicos y moda (Kotler & Keller, 2016).
+            .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema_3/img_3.png', class="img-fluid")
 
-    .tarjeta.tarjeta--fondo__slider.p-4.mb-5
-      SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
-            h4 Demográficas 
-            p Los clientes pueden diferir según su edad, género, nivel de ingresos, educación, ocupación, entre otras. Esta información es vital para crear campañas de marketing personalizadas y segmentadas. Por ejemplo, los jóvenes adultos (18-34 años) suelen estar más interesados en productos tecnológicos y moda (Kotler & Keller, 2016).
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
-            figure
-              img(src='@/assets/curso/temas/tema_3/img_3.png', class="img-fluid")
+          .row.justify-content-center.align-items-center
+            .col-12.col-lg-6.order-2.order-lg-1.mb-0
+              h4 Geográficas
+              p Los clientes también se distinguen por el lugar donde viven o interactúan, ya que su entorno geográfico influye en sus hábitos, preferencias y formas de consumo. Los consumidores urbanos pueden estar más inclinados a comprar productos de tecnología avanzada, mientras que los clientes rurales pueden buscar productos relacionados con la agricultura o herramientas para el hogar.
+            .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema_3/img_4.png', class="img-fluid")
 
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
-            h4 Geográficas
-            p Los clientes también se distinguen por el lugar donde viven o interactúan, ya que su entorno geográfico influye en sus hábitos, preferencias y formas de consumo. Los consumidores urbanos pueden estar más inclinados a comprar productos de tecnología avanzada, mientras que los clientes rurales pueden buscar productos relacionados con la agricultura o herramientas para el hogar.
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
-            figure
-              img(src='@/assets/curso/temas/tema_3/img_4.png', class="img-fluid")
+          .row.justify-content-center.align-items-center.mb-5
+            .col-12.col-lg-6.order-2.order-lg-1.mb-0
+              h4 Psicográficas
+              p Esta categoría se refiere a los estilos de vida, intereses, valores y creencias de los consumidores. Un buen ejemplo son los consumidores que compran productos de marcas como Patagonia, que se asocian con la sostenibilidad y la conciencia ambiental (Armstrong & Kotler, 2017).
+            .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema_3/img_5.png', class="img-fluid")
 
-        .row.justify-content-center.align-items-center.mb-5
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
-            h4 Psicográficas
-            p Esta categoría se refiere a los estilos de vida, intereses, valores y creencias de los consumidores. Un buen ejemplo son los consumidores que compran productos de marcas como Patagonia, que se asocian con la sostenibilidad y la conciencia ambiental (Armstrong & Kotler, 2017).
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
-            figure
-              img(src='@/assets/curso/temas/tema_3/img_5.png', class="img-fluid")
-
-        .row.justify-content-center.align-items-center
-          .col-12.col-lg-6.order-2.order-lg-1.mb-0
-            h4 Conductuales
-            p Este tipo de característica está relacionada con las decisiones de compra, el uso del producto y la lealtad. Por ejemplo, los clientes leales de Amazon tienden a comprar productos en línea debido a la conveniencia, mientras que otros pueden estar más enfocados en obtener descuentos y promociones (Churchill & Iacobucci, 2010).
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
-            figure
-              img(src='@/assets/curso/temas/tema_3/img_6.png', class="img-fluid")
+          .row.justify-content-center.align-items-center
+            .col-12.col-lg-6.order-2.order-lg-1.mb-0
+              h4 Conductuales
+              p Este tipo de característica está relacionada con las decisiones de compra, el uso del producto y la lealtad. Por ejemplo, los clientes leales de Amazon tienden a comprar productos en línea debido a la conveniencia, mientras que otros pueden estar más enfocados en obtener descuentos y promociones (Churchill & Iacobucci, 2010).
+            .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema_3/img_6.png', class="img-fluid")
 
     .row.justify-content-center.align-items-center.mb-3
       .col-9.col-lg-5.mb-lg-0.mb-3

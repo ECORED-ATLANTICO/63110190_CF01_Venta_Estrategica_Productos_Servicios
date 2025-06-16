@@ -166,7 +166,7 @@
         p.mb-0 Los servicios forman parte esencial de la vida cotidiana y del funcionamiento de la economía, ya que responden a necesidades específicas tanto de individuos como de organizaciones. Su naturaleza intangible, su simultaneidad en la producción y el consumo, así como su alta dependencia del factor humano, hacen que su clasificación sea una herramienta clave para comprender mejor sus características, propósitos y formas de prestación. Esta diversidad ha dado lugar a diferentes categorías que agrupan los servicios según su finalidad, su beneficiario principal o el sector en el que se desarrollan.
  
     .tarjeta.tarjeta--fondo__slider.p-4
-      SlyderA(tipo="b")
+      SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-4
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             p <b>Servicios personales:</b> son aquellos que se brindan directamente a los consumidores. Ejemplos incluyen servicios de salud (consultas médicas), educación (clases particulares) y entretenimiento (cines, teatros, entre otros).
