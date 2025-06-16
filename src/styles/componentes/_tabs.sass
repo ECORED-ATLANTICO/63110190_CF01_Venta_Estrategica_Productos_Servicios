@@ -93,7 +93,7 @@
     flex-direction: column
     align-items: center
     padding: 20px
-    background-color: $color-sistema-h
+    background-color: $color-acento-contenido-5
     border-right: 2px solid #AFAFAF
     border-bottom: 2px solid #AFAFAF
     cursor: pointer
@@ -146,13 +146,22 @@
         border-left: 2px solid #AFAFAF
 
   &__content-item
-
+    background-color: $color-terciario-10
   &.color-primario
     .tabs-b__tab--active
       border-top-color: $color-primario !important
   &.color-secundario
     .tabs-b__tab--active
       border-top-color: $color-secundario !important
+  
+  &.color-terciario
+    .tabs-b__tab--active
+      border-top-color: $color-terciario !important
+
+  &.color-terciario-10
+    .tabs-b__tab--active
+      border-top-color: $color-terciario-10 !important
+  
   &.color-acento-contenido
     .tabs-b__tab--active
       border-top-color: $color-acento-contenido !important
@@ -226,6 +235,19 @@
       border-bottom-color: $color-secundario !important
       &:before
         border-top-color: $color-secundario
+
+  &.color-terciario
+    .tabs-c__tab--active
+      border-bottom-color: $color-terciario !important
+      &:before
+        border-top-color: $color-terciario
+
+  &.color-terciario-10
+    .tabs-c__tab--active
+      border-bottom-color: $color-terciario-10 !important
+      &:before
+        border-top-color: $color-terciario-10
+  
   &.color-acento-contenido
     .tabs-c__tab--active
       border-bottom-color: $color-acento-contenido !important

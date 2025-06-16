@@ -75,3 +75,45 @@
 
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: $color-sistema-texto
+
+//label-title
+
+.label-title
+  font-size: 1.25rem
+  font-weight: bold
+  color: #0d172a
+  position: relative
+  display: flex 
+  align-items: center 
+  padding: 20px 20px 20px 45px
+  background-repeat: no-repeat
+  background-position: left center
+  background-size: contain
+  line-height: 1.3
+  min-height: 55px 
+
+  &--1
+    background-image: url('../assets/curso/temas/tema_1/img_20.svg')
+
+// Fondos 
+.bg_img
+  &_1
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_1/img_21.png') !important
+      background-repeat: no-repeat
+
+// Tabla a 
+.tabla-a thead
+  border-top: 1px $color-secundario solid
+  color: $color-sistema-a
+  background-color: $color-secundario
