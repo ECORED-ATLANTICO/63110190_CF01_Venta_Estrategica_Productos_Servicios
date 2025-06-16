@@ -165,6 +165,42 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Los servicios forman parte esencial de la vida cotidiana y del funcionamiento de la economía, ya que responden a necesidades específicas tanto de individuos como de organizaciones. Su naturaleza intangible, su simultaneidad en la producción y el consumo, así como su alta dependencia del factor humano, hacen que su clasificación sea una herramienta clave para comprender mejor sus características, propósitos y formas de prestación. Esta diversidad ha dado lugar a diferentes categorías que agrupan los servicios según su finalidad, su beneficiario principal o el sector en el que se desarrollan.
  
+    .tarjeta.tarjeta--fondo__slider.p-4
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+            p <b>Servicios personales:</b> son aquellos que se brindan directamente a los consumidores. Ejemplos incluyen servicios de salud (consultas médicas), educación (clases particulares) y entretenimiento (cines, teatros, entre otros).
+          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_1/img_16.png', class="img-fluid")
+
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+            p <b>Servicios empresariales:</b> se dirigen a otras entidades, lo que puede incluir consultorías, servicios de marketing, y servicios de tecnología de la información. Por ejemplo, una empresa como Accenture ofrece servicios de consultoría en tecnología de la información, incluyendo implementación de software, gestión de infraestructura de TI y soluciones en la nube. Ayudan a las empresas a adoptar nuevas tecnologías 
+          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_1/img_17.png', class="img-fluid")
+
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+            p <b>Servicios públicos:</b> son proporcionados por el gobierno o entidades públicas, como servicios de agua, electricidad y transporte público.
+          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_1/img_18.png', class="img-fluid")
+
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+            p <b>Servicios financieros:</b> este tipo de servicios son prestados por los bancos, aseguradoras y aquellas entidades que ofrecen servicios de inversión. Por ejemplo, un banco ofrece servicios de ahorro, préstamos y asesoría financiera.
+          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_1/img_19.png', class="img-fluid")
+
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-6.order-2.order-lg-1.mb-0
+            p <b>Servicios de mantenimiento y reparación:</b> incluyen servicios como plomería, electricidad y mantenimiento de vehículos.
+          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_1/img_19.png', class="img-fluid")
 </template>
 
 <script>
