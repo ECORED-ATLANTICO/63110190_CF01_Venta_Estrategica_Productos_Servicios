@@ -78,7 +78,7 @@
           img(src='@/assets/curso/temas/tema_2/img_6.png', class="img-fluid")
         
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--color-contenido-terciario-10")
-      div(titulo="Portafolio  de productos")
+      div(titulo="Portafolio de productos")
         p.ps-5.mb-0 Incluye todos los bienes tangibles que una empresa ofrece. Estos pueden organizarse por líneas de producto, categorías o niveles de calidad. Permiten atender diferentes necesidades del mercado. Ejemplo: una empresa de tecnología que vende celulares, tabletas y computadoras. (Kotler & Keller, 2016).
       div(titulo="Portafolio de servicio")
         p.ps-5.mb-0 Reúne prestaciones intangibles como asesorías, mantenimientos, soporte técnico, entre otros. Es común en sectores como salud, tecnología y finanzas. Ejemplo: una empresa de software que ofrece consultoría y capacitación junto al programa. (Armstrong & Kotler, 2017).
