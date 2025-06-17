@@ -52,7 +52,7 @@ export default {
           id: 2,
           texto:
             'Todos los productos son tangibles y pueden ser almacenados físicamente.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -75,7 +75,7 @@ export default {
           id: 3,
           texto:
             'Un bien de consumo duradero es aquel que se agota con un solo uso.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -98,7 +98,7 @@ export default {
           id: 4,
           texto:
             'Los productos industriales están dirigidos al consumidor final para uso personal.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -121,7 +121,7 @@ export default {
           id: 5,
           texto:
             'Las características del producto incluyen calidad, diseño, marca y empaque.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -144,7 +144,7 @@ export default {
           id: 6,
           texto:
             'El servicio, a diferencia del producto, es intangible y no se puede almacenar.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -190,7 +190,7 @@ export default {
           id: 8,
           texto:
             'Un servicio debe diseñarse para gestionar emociones y percepciones del cliente.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -213,7 +213,7 @@ export default {
           id: 9,
           texto:
             'Entre los tipos de servicio se encuentran los personales, públicos y profesionales.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -236,7 +236,7 @@ export default {
           id: 10,
           texto:
             'La variabilidad no afecta la calidad del servicio, ya que siempre es uniforme.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -259,7 +259,7 @@ export default {
           id: 11,
           texto:
             'El portafolio de ventas permite presentar de manera organizada los productos y servicios de una empresa.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -282,7 +282,7 @@ export default {
           id: 12,
           texto:
             'Una característica del portafolio es que no requiere actualización frecuente.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -305,7 +305,7 @@ export default {
           id: 13,
           texto:
             'El portafolio debe responder a las necesidades del cliente y a las condiciones del mercado.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -351,7 +351,7 @@ export default {
           id: 15,
           texto:
             'El portafolio debe ser extenso, sin importar la claridad de la información.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -374,7 +374,7 @@ export default {
           id: 16,
           texto:
             'El portafolio amplio ofrece una gran variedad de productos, diversificando la oferta.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -397,7 +397,7 @@ export default {
           id: 17,
           texto:
             'Un portafolio profundo ofrece múltiples versiones de un mismo producto.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -420,7 +420,7 @@ export default {
           id: 18,
           texto:
             'Un portafolio especializado se enfoca en una categoría específica y mejora el posicionamiento',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -466,7 +466,7 @@ export default {
           id: 20,
           texto:
             'Un portafolio híbrido combina diferentes tipos para atender distintos segmentos.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
