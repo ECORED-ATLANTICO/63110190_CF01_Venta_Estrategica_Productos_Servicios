@@ -27,7 +27,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-8.order-2.order-lg-1
         p.mb-3 Las principales cualidades de un producto comprenden su calidad, diseño, funcionalidad, durabilidad y apariencia. La combinación de estas características influye directamente en las decisiones de compra de los consumidores y en la percepción de marca (Kotler & Keller, 2016).
-      .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+      .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
         figure
           img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid").height-100
     .bg_img_1.mb-3
@@ -37,7 +37,8 @@
             h5 Figura 1.
             span.text-dark Desarrollo de la planta
           figure
-            img(src='@/assets/curso/temas/tema_1/img_3.svg', alt='La figura 1 resalta las características que tiene un producto como lo son: Calidad: capacidad para cumplir con las expectativas. Diseño: apariencia, funcionalidad y facilidad de uso. Funcionalidad: cumple con su propósito. Durabilidad: soporta un uso continuo.').mx-auto
+            img.d-none.d-md-block(src='@/assets/curso/temas/tema_1/img_3.svg', alt='La figura 1 resalta las características que tiene un producto como lo son: Calidad: capacidad para cumplir con las expectativas. Diseño: apariencia, funcionalidad y facilidad de uso. Funcionalidad: cumple con su propósito. Durabilidad: soporta un uso continuo.').mx-auto
+            img.d-block.d-md-none(src='@/assets/curso/temas/tema_1/img_3_movil.svg', alt='La figura 1 resalta las características que tiene un producto como lo son: Calidad: capacidad para cumplir con las expectativas. Diseño: apariencia, funcionalidad y facilidad de uso. Funcionalidad: cumple con su propósito. Durabilidad: soporta un uso continuo.').mx-auto
             figcaption <b>Fuente.</b> SENA, 2025
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario-10.p-3.p-sm-4.p-md-5.mb-5
@@ -74,7 +75,7 @@
             div.container
               h5.mb-3 Productos  de consumo 
               p.mb-0 Orientados al uso individual del consumidor. Ejemplos incluyen alimentos, ropa, cosméticos, productos electrónicos, entre otros. La marca Coca-Cola es un buen ejemplo de un producto de consumo masivo (Kotler & Keller, 2016).
-          .col-6.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+          .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema_1/img_10.png', class="img-fluid")
       .py-4.py-md-5(titulo="Productos industriales" :icono="require('@/assets/curso/temas/tema_1/img_7.svg')")
@@ -83,7 +84,7 @@
             div.container
               h5.mb-3 Productos industriales 
               p.mb-0 Son aquellos bienes que utilizan las empresas como parte del proceso para producir otros artículos o para ofrecer servicios. Por ejemplo, la empresa Caterpillar se dedica a fabricar maquinaria pesada que se usa en obras de construcción.
-          .col-6.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+          .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema_1/img_11.png', class="img-fluid")
       .py-4.py-md-5(titulo="Productos no duraderos" :icono="require('@/assets/curso/temas/tema_1/img_8.svg')")
@@ -92,7 +93,7 @@
             div.container
               h5.mb-3 Productos no duraderos 
               p.mb-0 Son aquellos artículos que se consumen de forma rápida o de una duración corta, puesto que su diseño va alineado a su uso en un corto plazo antes de desecharse o agotarse. Esto incluye alimentos que se dañan fácilmente o artículos que se usan una sola vez. Un ejemplo serían las frituras empaquetadas o la ropa para una temporada específica.
-          .col-6.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+          .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema_1/img_12.png', class="img-fluid")
       .py-4.py-md-5(titulo="Productos duraderos" :icono="require('@/assets/curso/temas/tema_1/img_9.svg')")
@@ -101,7 +102,7 @@
             div.container
               h5.mb-3 Productos duraderos
               p.mb-0 Se trata de productos que están hechos para ser utilizados durante un largo período sin deteriorarse fácilmente. Entre estos se encuentran los electrodomésticos, los muebles y los automóviles La marca LG se destaca en el mercado por fabricar electrodomésticos duraderos y confiables, lo que le ha permitido ganarse una sólida reputación en cuanto a calidad.
-          .col-6.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
+          .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema_1/img_13.png', class="img-fluid")
 
@@ -128,7 +129,7 @@
           table
             caption 
               p <b>Fuente.</b> Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018)
-            thead.text-white
+            thead
               tr
                 th Característica
                 th Descripción
@@ -170,35 +171,35 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             p <b>Servicios personales:</b> son aquellos que se brindan directamente a los consumidores. Ejemplos incluyen servicios de salud (consultas médicas), educación (clases particulares) y entretenimiento (cines, teatros, entre otros).
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+          .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_16.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             p <b>Servicios empresariales:</b> se dirigen a otras entidades, lo que puede incluir consultorías, servicios de marketing, y servicios de tecnología de la información. Por ejemplo, una empresa como Accenture ofrece servicios de consultoría en tecnología de la información, incluyendo implementación de software, gestión de infraestructura de TI y soluciones en la nube. Ayudan a las empresas a adoptar nuevas tecnologías 
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+          .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_17.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             p <b>Servicios públicos:</b> son proporcionados por el gobierno o entidades públicas, como servicios de agua, electricidad y transporte público.
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+          .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_18.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             p <b>Servicios financieros:</b> este tipo de servicios son prestados por los bancos, aseguradoras y aquellas entidades que ofrecen servicios de inversión. Por ejemplo, un banco ofrece servicios de ahorro, préstamos y asesoría financiera.
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+          .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_19.png', class="img-fluid")
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             p <b>Servicios de mantenimiento y reparación:</b> incluyen servicios como plomería, electricidad y mantenimiento de vehículos.
-          .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+          .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_19.png', class="img-fluid")
 </template>

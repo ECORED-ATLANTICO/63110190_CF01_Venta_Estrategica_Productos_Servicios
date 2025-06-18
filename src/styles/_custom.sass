@@ -8,16 +8,19 @@
   &-1
     top: 48%
     left: -1%
+    width: 25%
     position: absolute
     animation: float1 2.8s ease-in-out infinite alternate
   &-2
     top: 60%
     left: 60%
+    width: 24%
     position: absolute
     animation: float1 2.8s ease-in-out infinite alternate
   &-3
     top: 25%
     right: 10%
+    width: 15%
     position: absolute
     animation: float1 2.8s ease-in-out infinite alternate
 
@@ -75,7 +78,9 @@
 
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: $color-sistema-texto
-
+  
+.banner-principal .tarjeta 
+  background-color: $color-primario
 //label-title
 
 .label-title
@@ -142,10 +147,21 @@
 
 // Tabla a 
 .tabla-a thead
-  border-top: 1px $color-secundario solid
-  color: $color-sistema-a
+  color: $white
   background-color: $color-secundario
+.tabla-a th 
+  border: 2px $color-secundario solid
+td, th 
+  border: 2px $color-secundario solid
+table td 
+  text-align: left
 
 // acordion
 .acordion__activo
   background-color: $color-terciario-10 !important
+  .acordion__accion__btn--a
+    background-color: $color-terciario-60 !important
+
+.acordion__accion__btn--a 
+  background-color: $color-acento-contenido !important
+  color: $white !important

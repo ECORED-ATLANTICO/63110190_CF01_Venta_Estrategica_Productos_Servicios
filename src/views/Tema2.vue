@@ -13,7 +13,7 @@
           .tarjeta.color-acento-contenido-5.h-100.p-3.rounded-0(style="border-radius: 0 10px 10px 10px !important;")
             .d-flex.flex-column.justify-content-center.h-100
               p.mb-0 El portafolio de ventas es el conjunto de productos y servicios que una empresa ofrece a sus clientes. Tener un portafolio bien diseñado es crucial para diversificar las fuentes de ingreso y satisfacer las variadas necesidades del mercado (Armstrong & Kotler, 2017).
-      .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3.d-flex
+      .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3.d-flex
         figure.w-100.d-flex.flex-column
           img(src="@/assets/curso/temas/tema_2/img_1.png", class="img-fluid").h-100
 
@@ -24,8 +24,8 @@
     .mb-3
 
     .bg_img_2.mb-3
-      .row.justify-content-center.align-items-center.mb-3
-        .col-8.col-lg-4.mb-lg-0.mb-3
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-4.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema_2/img_2.png', class="img-fluid")
         .col-12.col-lg-8
@@ -70,10 +70,10 @@
       .h2(data-aos="fade-right") 2.2	Tipos 
     .mb-3
 
-    .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-8.order-2.order-lg-1.mb-lg-0.mb-3
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-8.order-2.order-lg-1
         p El portafolio de ventas es una herramienta clave en la estrategia comercial de cualquier organización, ya que permite organizar y comunicar de manera efectiva la oferta disponible para diferentes segmentos de mercado. Su estructura puede variar según el objetivo del negocio, el comportamiento del consumidor o las dinámicas del sector, lo que lo convierte en un recurso flexible y adaptable. Al comprender su clasificación, es posible optimizar la presentación de productos o servicios, facilitar el proceso de venta y fortalecer la propuesta de valor frente a la competencia. A continuación, se presentan las principales formas en que puede organizarse un portafolio de ventas:
-      .col-8.col-lg-4.order-1.order-lg-2
+      .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_2/img_6.png', class="img-fluid")
         
@@ -98,14 +98,14 @@
     figure.mb-3
       img(src='@/assets/curso/temas/tema_2/img_7.png', class="img-fluid")
 
-    p.mb-3 La elaboración de un portafolio de productos y/o servicios es un proceso clave para estructurar de forma estratégica la oferta comercial de una empresa. Permite identificar, organizar y presentar los elementos que componen la propuesta de valor, de acuerdo con las necesidades del mercado y los segmentos de clientes. Este proceso no solo facilita la toma de decisiones comerciales, sino que también mejora la comunicación con los clientes y la diferenciación frente a la competencia. A continuación, se describen los pasos fundamentales para su construcción, desde el análisis del entorno hasta la validación final del portafolio. A continuación, se establecen pasos para la elaboración del portafolio de venta: 
+    p.mb-5 La elaboración de un portafolio de productos y/o servicios es un proceso clave para estructurar de forma estratégica la oferta comercial de una empresa. Permite identificar, organizar y presentar los elementos que componen la propuesta de valor, de acuerdo con las necesidades del mercado y los segmentos de clientes. Este proceso no solo facilita la toma de decisiones comerciales, sino que también mejora la comunicación con los clientes y la diferenciación frente a la competencia. A continuación, se describen los pasos fundamentales para su construcción, desde el análisis del entorno hasta la validación final del portafolio. A continuación, se establecen pasos para la elaboración del portafolio de venta: 
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1.mb-lg-0.mb-3
         LineaTiempoD.color-adicional-1
           .row(numero="1" titulo="Definir objetivos y público objetivo")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small
+              ul
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Determine qué busca lograr el portafolio (por ejemplo, captar nuevos clientes, presentar línea completa y apoyar fuerza de ventas).
@@ -114,7 +114,7 @@
                   span 	Delimite el segmento al que se dirige (edad, sector, nivel de ingresos, entre otros) para adecuar lenguaje y formatos (Armstrong & Kotler, 2020).
           .row(numero="2" titulo="Recopilar y analizar información")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul  
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Reúna ficha técnica, especificaciones, precios, fotos y resultados de pruebas de uso.
@@ -123,7 +123,7 @@
                   span 	Emplee un marco DOFA para examinar las ventajas competitivas y las posibles áreas de crecimiento de cada producto o servicio (Lamb, Hair & McDaniel, 2019). (Opcional)
           .row(numero="3" titulo="Identificar atributos y propuesta de valor")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Describa las características diferenciales y los beneficios clave de cada producto o servicio.
@@ -132,7 +132,7 @@
                   span 	Explique cómo satisfacen necesidades específicas o mejoran la experiencia del cliente (Schiffman & Kanuk, 2018).
           .row(numero="4" titulo="Segmentar y clasificar el portafolio")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Agrupe los ítems por categorías: uso, rango de precio, rentabilidad o fase de ciclo de vida.
@@ -141,26 +141,26 @@
                   span 	Asigne un nombre claro a cada categoría (American Marketing Association, s.f.).
           .row(numero="5" titulo="Diseñar estructura y formato")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small
+              ul
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Elija el soporte más adecuado: impreso, digital interactivo o PDF descargable. 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Defina las secciones fijas: índice, presentación, fichas de producto, testimonios y condiciones de venta (Ecosistema de Recursos Educativos Digitales SENA, 2024).
-      .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-4
+      .col-7.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-5
         figure
           img(src='@/assets/curso/temas/tema_2/img_8.png', class="img-fluid")
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-7.col-lg-4.mb-lg-0.mb-3
+      .col-7.col-lg-4.mb-lg-0.mb-5
         figure
           img(src='@/assets/curso/temas/tema_2/img_9.png', class="img-fluid")
       .col-12.col-lg-8
         LineaTiempoD.color-adicional-1
           .row(numero="6" titulo="Elaborar fichas de producto/servicio")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Incluya en cada ficha: nombre, breve descripción, características técnicas, beneficios, imágenes, precio y código interno.
@@ -169,7 +169,7 @@
                   span 	Incorpore iconografía o cuadros explicativos que faciliten la comprensión de la información (Kotler & Keller, 2021).
           .row(numero="7" titulo="Incorporar elementos visuales y multimedia")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Utilice fotografías de alta calidad, diagramas de uso o videos cortos embebidos.
@@ -178,7 +178,7 @@
                   span 	Mantenga coherencia gráfica en tipografía, colores y estilo visual (Lamb, Hair & McDaniel, 2019).
           .row(numero="8" titulo="Establecer precios y condiciones")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Detalle precios oficiales, descuentos por volumen, plazos de entrega, garantías y políticas de devolución.
@@ -187,7 +187,7 @@
                   span 	Explique claramente las formas de pago aceptadas y proporcione los contactos de atención al cliente (Kotler & Keller, 2021).
           .row(numero="9" titulo="Integrar casos de éxito y certificaciones")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Inserte breves testimonios de clientes satisfechos o estadísticas de proyectos exitosos.
@@ -196,7 +196,7 @@
                   span 	Añada sellos de calidad o certificaciones reconocidas cuando correspondan (Schiffman & Kanuk, 2018).
           .row(numero="10" titulo="Revisar, validar y actualizar")
             .col-md-12.mb-3.mb-md-0
-              ul.text-small  
+              ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Antes de la publicación definitiva, verifique toda la información con los equipos de producción, finanzas y área legal. 
@@ -208,19 +208,22 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/temas/tema_2/img_10.png')
       .bloque-texto-t__texto.color-acento-contenido-10.col-7.mb-0
-        .row.justify-content-center.align-items-center
-          .col-4.col-lg-1.mb-lg-0.mb-3
+        .row.justify-content-start.align-items-center.p-3
+          .col-4.col-lg-1.mb-lg-0.mb-3.text-center.text-lg-start
             figure
               img(src='@/assets/curso/temas/tema_2/img_11.svg', class="img-fluid")
-          .col-12.col-lg-6.mb-lg-0.mb-3
+          .col-12.col-lg-8.mb-lg-0.mb-3
             b Ir a los videos con tema portafolio de ventas:
-          .col-7.col-lg-5.mb-lg-0.mb-3
-            a.text-small.boton.color-acento-contenido(href="https://www.youtube.com/watch?v=QrJ2hZkRpiM&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA", target="_blank")
-              .row.justify-content-center.align-items-center
-                .col-7.col-lg-7.mb-lg-0.mb-3
-                  span Ver Videos
-                .col-7.col-lg-5.mb-lg-0.mb-3
-                  img(src='@/assets/curso/temas/tema_2/img_14.svg')
+          .col-7.col-lg-3.mb-lg-0.mb-3
+            .row.g-2
+              .col-12
+                a.boton.color-acento-contenido.d-flex.justify-content-between.align-items-center.px-3.py-2(href="https://www.youtube.com/watch?v=DWjhZ4fNVuk", target="_blank")
+                  span Ver Video
+                  img(src='@/assets/curso/temas/tema_2/img_14.svg', style="width: 20px; height: 20px;")
+              .col-12
+                a.boton.color-acento-contenido.d-flex.justify-content-between.align-items-center.px-3.py-2(href="https://www.youtube.com/watch?v=QrJ2hZkRpiM&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA", target="_blank")
+                  span Ver Video  
+                  img(src='@/assets/curso/temas/tema_2/img_14.svg', style="width: 20px; height: 20px;")
 </template>
 
 <script>
