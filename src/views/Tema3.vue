@@ -32,7 +32,7 @@
           .row.justify-content-center.align-items-center
             .col-12.col-lg-6.order-2.order-lg-1.mb-0
               h4 Demográficas 
-              p Los clientes pueden diferir según su edad, género, nivel de ingresos, educación, ocupación, entre otras. Esta información es vital para crear campañas de marketing personalizadas y segmentadas. Por ejemplo, los jóvenes adultos (18-34 años) suelen estar más interesados en productos tecnológicos y moda (Kotler & Keller, 2016).
+              p Los clientes pueden diferir según su edad, género, nivel de ingresos, educación, ocupación, entre otras. Esta información es vital para crear campañas de <i>marketing</i> personalizadas y segmentadas. Por ejemplo, los jóvenes adultos (18-34 años) suelen estar más interesados en productos tecnológicos y moda (Kotler & Keller, 2016).
             .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema_3/img_3.png', class="img-fluid")
@@ -66,7 +66,7 @@
         figure
           img(src='@/assets/curso/temas/tema_3/img_7.png', class="img-fluid")
       .col-12.col-lg-7
-        p El perfil del cliente y sus características permite crear estrategias de marketing personalizadas y efectivas. Un ejemplo es el perfil de quienes compran en Zara: personas que priorizan la moda actual, desean calidad sin pagar precios excesivos y valoran la rapidez con la que la marca responde a las nuevas tendencias. (Armstrong & Kotler, 2017).
+        p El perfil del cliente y sus características permite crear estrategias de <i>marketing</i> personalizadas y efectivas. Un ejemplo es el perfil de quienes compran en Zara: personas que priorizan la moda actual, desean calidad sin pagar precios excesivos y valoran la rapidez con la que la marca responde a las nuevas tendencias. (Armstrong & Kotler, 2017).
 
     separador
 
@@ -84,7 +84,7 @@
           div(titulo="Clientes recurrentes")
             p.ps-5.mb-0 Son aquellos que compran con regularidad. Estos clientes ya han construido un vínculo con la empresa, confían en lo que ofrece y representan un flujo continuo y predecible de ingresos. Un ejemplo clásico de clientes recurrentes son los suscriptores de servicios como Netflix o los clientes leales de marcas como Apple.
           div(titulo="Clientes potenciales")
-            p.ps-5.mb-0 Aún no han comprado, pero ya demuestran un interés claro por lo que la empresa ofrece, lo que los convierte en candidatos reales para futuras ventas. Las estrategias de marketing deben centrarse en convertir a estos clientes potenciales en clientes reales. Un ejemplo puede ser la captación de clientes para un gimnasio mediante pruebas gratuitas.
+            p.ps-5.mb-0 Aún no han comprado, pero ya demuestran un interés claro por lo que la empresa ofrece, lo que los convierte en candidatos reales para futuras ventas. Las estrategias de <i>marketing</i> deben centrarse en convertir a estos clientes potenciales en clientes reales. Un ejemplo puede ser la captación de clientes para un gimnasio mediante pruebas gratuitas.
           div(titulo="Clientes leales")
             p.ps-5.mb-0 Son clientes que, con el tiempo, han mantenido una elección constante por una marca o producto, reflejando fidelidad y generando un alto nivel de compras repetidas. Un ejemplo sería Starbucks, que ha cultivado una base de clientes muy leal gracias a su programa de recompensas y la calidad constante de sus productos.
       .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-5
@@ -93,7 +93,7 @@
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-11.order-2.order-lg-1
-        p El perfil del cliente permite crear estrategias de marketing personalizadas y efectivas. Un ejemplo es el perfil de quienes compran en Zara: personas que priorizan la moda actual, desean calidad sin pagar precios excesivos y valoran la rapidez con la que la marca responde a las nuevas tendencias. (Armstrong & Kotler, 2017).
+        p El perfil del cliente permite crear estrategias de <i>marketing</i> personalizadas y efectivas. Un ejemplo es el perfil de quienes compran en Zara: personas que priorizan la moda actual, desean calidad sin pagar precios excesivos y valoran la rapidez con la que la marca responde a las nuevas tendencias. (Armstrong & Kotler, 2017).
       .col-4.col-lg-1.order-1.order-lg-2.mb-lg-0.mb-3  
         figure
           img(src='@/assets/curso/temas/tema_3/img_9.svg', class="img-fluid")
@@ -112,7 +112,7 @@
         .w-100.d-flex.flex-column
           .tarjeta.color-primario-5.h-100.p-3
             .d-flex.flex-column.justify-content-center.h-100
-              p.mb-0 La segmentación de clientes es una herramienta esencial en marketing, que implica descomponer un mercado amplio y variado en segmentos más pequeños y homogéneos, cuyos integrantes comparten atributos, necesidades y comportamientos comunes, lo que permite una aproximación más precisa y efectiva a cada grupo. Al identificar estos segmentos, las empresas pueden desarrollar enfoques más precisos y personalizados que incrementen la efectividad de sus campañas y el rendimiento de sus productos o servicios.
+              p.mb-0 La segmentación de clientes es una herramienta esencial en <i>marketing</i>, que implica descomponer un mercado amplio y variado en segmentos más pequeños y homogéneos, cuyos integrantes comparten atributos, necesidades y comportamientos comunes, lo que permite una aproximación más precisa y efectiva a cada grupo. Al identificar estos segmentos, las empresas pueden desarrollar enfoques más precisos y personalizados que incrementen la efectividad de sus campañas y el rendimiento de sus productos o servicios.
       
     h3(data-aos='zoom-in-right').mb-5
       span.label-title.label-title--1 Criterios
@@ -125,7 +125,7 @@
     .tabla-a.mb-5
       table
         caption 
-          p <b>Fuente.</b> adaptado de Kotler, P., & Keller, K. L. (2016).
+          p <b>Fuente.</b> Adaptado de Kotler, P., & Keller, K. L. (2016). Dirección de <i>marketing</i> (15.ª ed.). Pearson.
         thead.text-white
           tr
             th Segmento
@@ -136,25 +136,25 @@
         tbody
           tr
             td <b>Jóvenes adultos</b>
-            td Edad: 18-30 años, solteros
+            td Edad: 18-30 años, solteros.
             td Estilo de vida activo y valoran la tecnología.
             td Zonas urbanas.
             td Compradores frecuentes de tecnología.
           tr
             td <b>Familias</b>
-            td Edad: 30-45 años, casados
-            td Buscan estabilidad y comodidad familiar
+            td Edad: 30-45 años, casados.
+            td Buscan estabilidad y comodidad familiar.
             td Zonas suburbanas y rurales.
             td Compradores regulares de productos para el hogar.
           tr
             td <b>Lujosos</b>
-            td Edad: 35-55 años, ingresos altos
+            td Edad: 35-55 años, ingresos altos.
             td Estilo de vida exclusivo y aprecian el lujo.
             td Ciudades grandes.
             td Compradores esporádicos de productos de alta gama.
           tr
             td <b>Ecológicos</b>
-            td Edad: 25-40 años, solteros
+            td Edad: 25-40 años, solteros.
             td Preocupación por el medio ambiente.
             td Áreas con conciencia ecológica.
             td Compradores frecuentes de productos orgánicos.
@@ -170,7 +170,7 @@
             figure
               img(src="@/assets/curso/temas/tema_3/img_12.svg", class="img-fluid")
           .col-12.col-lg-11
-            p.mb-0 Ejemplo en la práctica: una marca de ropa deportiva podría crear una línea de productos especialmente diseñada para mujeres jóvenes urbanas interesadas en el fitness (segmentación psicográfica) y otra línea orientada a consumidores rurales que buscan ropa funcional para actividades al aire libre (segmentación geográfica). Así, la empresa ofrece productos que se alinean más directamente con las necesidades de cada grupo.
+            p.mb-0 Ejemplo en la práctica: una marca de ropa deportiva podría crear una línea de productos especialmente diseñada para mujeres jóvenes urbanas interesadas en el <i>fitness</i> (segmentación psicográfica) y otra línea orientada a consumidores rurales que buscan ropa funcional para actividades al aire libre (segmentación geográfica). Así, la empresa ofrece productos que se alinean más directamente con las necesidades de cada grupo.
       .col-7.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
         figure
           img(src="@/assets/curso/temas/tema_3/img_11.png", class="img-fluid")
@@ -180,7 +180,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_3/img_13.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La segmentación de clientes es una herramienta poderosa que permite a las empresas entender mejor a su público objetivo y ofrecer productos o servicios de manera más eficaz. Al descomponer un mercado vasto en grupos más definidos y similares, las empresas tienen la oportunidad de afinar sus estrategias de marketing, ofreciendo respuestas más específicas que no solo mejoran la experiencia del cliente, sino que también amplifican las posibilidades de expansión y generación de ingresos.
+        p.mb-0 La segmentación de clientes es una herramienta poderosa que permite a las empresas entender mejor a su público objetivo y ofrecer productos o servicios de manera más eficaz. Al descomponer un mercado vasto en grupos más definidos y similares, las empresas tienen la oportunidad de afinar sus estrategias de <i>marketing</i>, ofreciendo respuestas más específicas que no solo mejoran la experiencia del cliente, sino que también amplifican las posibilidades de expansión y generación de ingresos.
 </template>
 
 <script>

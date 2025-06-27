@@ -10,7 +10,7 @@
 
     .row.d-flex.align-items-stretch.justify-content-center.align-items-center.mb-5  
       .col-12.col-lg-8.order-2.order-lg-1
-        p.mb-3 Vender no solo significa ofrecer un producto o servicio. También implica entender lo que el cliente necesita y cómo se puede responder a esas necesidades con una oferta adecuada. Este componente formativo, Productos y servicios en el mercado, brinda al aprendiz las bases para conocer y diferenciar productos, servicios y portafolios de venta. Además, permite analizar el perfil del cliente y sus diferentes segmentos.   
+        p.mb-3 Vender no solo significa ofrecer un producto o servicio. También implica entender lo que el cliente necesita y cómo se puede responder a esas necesidades con una oferta adecuada. Este componente formativo, productos y servicios en el mercado, brinda al aprendiz las bases para conocer y diferenciar productos, servicios y portafolios de venta. Además, permite analizar el perfil del cliente y sus diferentes segmentos.   
         p.mb-0 El objetivo es que el aprendiz pueda identificar los atributos de cada oferta comercial y relacionarlos con las características de distintos tipos de clientes. Este conocimiento le ayudará a construir propuestas de valor claras, efectivas y adaptadas a escenarios reales de venta. Desarrollar estas habilidades es clave para un buen desempeño en ocupaciones relacionadas con ventas y servicios.
       .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3.d-flex
         figure.w-100.d-flex.flex-column

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Productos y servicios en el mercado',
     Description:
-      'El módulo Productos y servicios en el mercado proporciona las bases para comprender las características de productos, servicios y portafolios de venta, junto con el análisis del perfil y la segmentación del cliente. Este conocimiento permite al aprendiz identificar los atributos de la oferta comercial y relacionarlos con distintos tipos de clientes, con el fin de estructurar propuestas de valor pertinentes en escenarios reales de venta.',
+      'El módulo productos y servicios en el mercado proporciona las bases para comprender las características de productos, servicios y portafolios de venta, junto con el análisis del perfil y la segmentación del cliente. Este conocimiento permite al aprendiz identificar los atributos de la oferta comercial y relacionarlos con distintos tipos de clientes, con el fin de estructurar propuestas de valor pertinentes en escenarios reales de venta.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-portada.png'),
     imagenesDecorativasBanner: [
@@ -148,14 +148,14 @@ export default {
     {
       tema: 'Portafolio de ventas',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2024, 15 de noviembre). Portafolio de productos y servicios [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2024, 15 de noviembre). <i>Portafolio de productos y servicios</i> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=DWjhZ4fNVuk',
     },
     {
       tema: 'Portafolio de ventas',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (s.f.). Portafolio y características del producto [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (s.f.). <i>Portafolio y características del producto</i> [Video]. YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=QrJ2hZkRpiM&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
@@ -230,7 +230,7 @@ export default {
     {
       termino: 'Mercado objetivo',
       significado:
-        'grupo de consumidores al que se dirige una estrategia de marketing.',
+        'grupo de consumidores al que se dirige una estrategia de <i>marketing.</i>',
     },
     {
       termino: 'Perfil del cliente',
@@ -250,7 +250,8 @@ export default {
     },
     {
       termino: 'Promoción',
-      significado: 'estrategias de marketing para atraer a los clientes.',
+      significado:
+        'estrategias de <i>marketing</i> para atraer a los clientes.',
     },
     {
       termino: 'Psicografía',
@@ -269,31 +270,31 @@ export default {
   referencias: [
     {
       referencia:
-        'Chiavenato, I. (2006). Introducción a la teoría general de la administración (7. ª ed.). McGraw-Hill. ',
+        'Chiavenato, I. (2006). <i>Introducción a la teoría general de la administración</i> (7. ª ed.). McGraw-Hill. ',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/15525/mod_resource/content/0/Chiavenato%20Idalverto.%20Introducci%C3%B3n%20a%20la%20teor%C3%ADa%20general%20de%20la%20Administraci%C3%B3n.pdf',
     },
     {
       referencia:
-        'Churchill, G. A., & Iacobucci, D. (2010). Investigación de mercados: Fundamentos metodológicos (10.ª ed.). Cengage Learning. Versión en español (PDF): ',
+        'Churchill, G. A., & Iacobucci, D. (2010). <i>Investigación de mercados: Fundamentos metodológicos</i> (10.ª ed.). Cengage Learning. Versión en español (PDF): ',
       link:
         'https://usfx.bo/Documentos/RepositorioLibros/Investigacion_de_mercados.pdf',
     },
     {
       referencia:
-        'Kotler, P., & Armstrong, G. (2017). Principios de marketing (17.ª ed.). Pearson Education. ',
+        'Kotler, P., & Armstrong, G. (2017). <i>Principios de marketing</i> (17.ª ed.). Pearson Education. ',
       link:
         'https://campus.eco.unlpam.edu.ar/pluginfile.php/154367/mod_resource/content/1/Marketing%20Kotler-Armstrong.pdf',
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2016). Dirección de marketing (15.ª ed.). Pearson Educación. Versión en español (PDF): ',
+        'Kotler, P., & Keller, K. L. (2016). <i>Dirección de marketing</i> (15.ª ed.). Pearson Educación. Versión en español (PDF): ',
       link:
         'https://www.leo.edu.pe/wp-content/uploads/2019/12/direccion-de-marketing-philip-kotler-1.pdf',
     },
     {
       referencia:
-        'Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). Marketing de servicios: Integración del enfoque en el cliente en toda la empresa (7.ª ed.). McGraw-Hill Education. Versión en español (PDF): ',
+        'Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). <i>Marketing de servicios: Integración del enfoque en el cliente en toda la empresa</i> (7.ª ed.). McGraw-Hill Education. Versión en español (PDF): ',
       link:
         'https://gc.scalahed.com/recursos/files/r161r/w20726w/El%20marketing%20de%20servicios_compressed.pdf',
     },

@@ -81,7 +81,7 @@
       div(titulo="Portafolio de productos")
         p.ps-5.mb-0 Incluye todos los bienes tangibles que una empresa ofrece. Estos pueden organizarse por líneas de producto, categorías o niveles de calidad. Permiten atender diferentes necesidades del mercado. Ejemplo: una empresa de tecnología que vende celulares, tabletas y computadoras. (Kotler & Keller, 2016).
       div(titulo="Portafolio de servicio")
-        p.ps-5.mb-0 Reúne prestaciones intangibles como asesorías, mantenimientos, soporte técnico, entre otros. Es común en sectores como salud, tecnología y finanzas. Ejemplo: una empresa de software que ofrece consultoría y capacitación junto al programa. (Armstrong & Kotler, 2017).
+        p.ps-5.mb-0 Reúne prestaciones intangibles como asesorías, mantenimientos, soporte técnico, entre otros. Es común en sectores como salud, tecnología y finanzas. Ejemplo: una empresa de <i>software</i> que ofrece consultoría y capacitación junto al programa. (Armstrong & Kotler, 2017).
       div(titulo="Portafolio mixto")
         p.ps-5.mb-0 Combina productos físicos con servicios complementarios, generando un mayor valor agregado para el cliente. Ejemplo: una empresa de telecomunicaciones que vende teléfonos e incluye planes de datos y asistencia técnica. (Zeithaml, Bitner, & Gremler, 2018).
       div(titulo="Portafolio básico y complementario")
@@ -92,13 +92,13 @@
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 2.3	Pasos para elaborar portafolio.
+      .h2(data-aos="fade-right") 2.3	Pasos para elaborar portafolio
     .mb-3
     
     figure.mb-3
       img(src='@/assets/curso/temas/tema_2/img_7.png', class="img-fluid")
 
-    p.mb-5 La elaboración de un portafolio de productos y/o servicios es un proceso clave para estructurar de forma estratégica la oferta comercial de una empresa. Permite identificar, organizar y presentar los elementos que componen la propuesta de valor, de acuerdo con las necesidades del mercado y los segmentos de clientes. Este proceso no solo facilita la toma de decisiones comerciales, sino que también mejora la comunicación con los clientes y la diferenciación frente a la competencia. A continuación, se describen los pasos fundamentales para su construcción, desde el análisis del entorno hasta la validación final del portafolio. A continuación, se establecen pasos para la elaboración del portafolio de venta: 
+    p.mb-5 La elaboración de un portafolio de productos y/o servicios es un proceso clave para estructurar de forma estratégica la oferta comercial de una empresa. Permite identificar, organizar y presentar los elementos que componen la propuesta de valor, de acuerdo con las necesidades del mercado y los segmentos de clientes. Este proceso no solo facilita la toma de decisiones comerciales, sino que también mejora la comunicación con los clientes y la diferenciación frente a la competencia. A continuación, se describen los pasos fundamentales para su construcción, desde el análisis del entorno hasta la validación final del portafolio.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1.mb-lg-0.mb-3
@@ -120,7 +120,7 @@
                   span 	Reúna ficha técnica, especificaciones, precios, fotos y resultados de pruebas de uso.
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
-                  span 	Emplee un marco DOFA para examinar las ventajas competitivas y las posibles áreas de crecimiento de cada producto o servicio (Lamb, Hair & McDaniel, 2019). (Opcional)
+                  span 	Emplee un marco DOFA para examinar las ventajas competitivas y las posibles áreas de crecimiento de cada producto o servicio (Lamb, Hair & McDaniel, 2019). (Opcional).
           .row(numero="3" titulo="Identificar atributos y propuesta de valor")
             .col-md-12.mb-3.mb-md-0
               ul 
@@ -135,7 +135,7 @@
               ul 
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
-                  span 	Agrupe los ítems por categorías: uso, rango de precio, rentabilidad o fase de ciclo de vida.
+                  span 	Agrupe los <i>ítems</i> por categorías: uso, rango de precio, rentabilidad o fase de ciclo de vida.
                 li.mb-0.d-flex.align-items-start
                   i.fa-solid.fa-circle-check.me-2(style="color: #517E64; margin-top: 4px;")
                   span 	Asigne un nombre claro a cada categoría (American Marketing Association, s.f.).
@@ -218,11 +218,11 @@
             .row.g-2
               .col-12
                 a.boton.color-acento-contenido.d-flex.justify-content-between.align-items-center.px-3.py-2(href="https://www.youtube.com/watch?v=DWjhZ4fNVuk", target="_blank")
-                  span Ver Video
+                  span Video 1
                   img(src='@/assets/curso/temas/tema_2/img_14.svg', style="width: 20px; height: 20px;")
               .col-12
                 a.boton.color-acento-contenido.d-flex.justify-content-between.align-items-center.px-3.py-2(href="https://www.youtube.com/watch?v=QrJ2hZkRpiM&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA", target="_blank")
-                  span Ver Video  
+                  span Video 2
                   img(src='@/assets/curso/temas/tema_2/img_14.svg', style="width: 20px; height: 20px;")
 </template>
 

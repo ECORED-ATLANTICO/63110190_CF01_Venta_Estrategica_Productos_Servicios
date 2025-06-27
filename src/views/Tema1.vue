@@ -26,7 +26,7 @@
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-8.order-2.order-lg-1
-        p.mb-3 Las principales cualidades de un producto comprenden su calidad, diseño, funcionalidad, durabilidad y apariencia. La combinación de estas características influye directamente en las decisiones de compra de los consumidores y en la percepción de marca (Kotler & Keller, 2016).
+        p.mb-3 Las principales cualidades de un producto comprenden calidad, diseño, funcionalidad, durabilidad y apariencia. La combinación de estas características influye directamente en las decisiones de compra de los consumidores y en la percepción de marca (Kotler & Keller, 2016).
       .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
         figure
           img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid").height-100
@@ -35,7 +35,7 @@
         .col-12.col-lg-8.mb-3
           .titulo-sexto.color-acento-contenido
             h5 Figura 1.
-            span.text-dark Desarrollo de la planta
+            span.text-dark Características de un producto.
           figure
             img.d-none.d-md-block(src='@/assets/curso/temas/tema_1/img_3.svg', alt='La figura 1 resalta las características que tiene un producto como lo son: Calidad: capacidad para cumplir con las expectativas. Diseño: apariencia, funcionalidad y facilidad de uso. Funcionalidad: cumple con su propósito. Durabilidad: soporta un uso continuo.').mx-auto
             img.d-block.d-md-none(src='@/assets/curso/temas/tema_1/img_3_movil.svg', alt='La figura 1 resalta las características que tiene un producto como lo son: Calidad: capacidad para cumplir con las expectativas. Diseño: apariencia, funcionalidad y facilidad de uso. Funcionalidad: cumple con su propósito. Durabilidad: soporta un uso continuo.').mx-auto
@@ -59,7 +59,7 @@
           div(titulo="DISEÑO")
             p.ps-5.mb-0 El diseño no solo se refiere a la apariencia estética de un producto, sino también a su funcionalidad y facilidad de uso. Por ejemplo, en el caso de Dyson, sus aspiradoras y secadores de mano tienen un diseño innovador que maximiza la eficacia del producto (Armstrong & Kotler, 2017).
           div(titulo="FUNCIONALIDAD")
-            p.ps-5.mb-0 Esta característica se refiere a cómo el producto cumple con su propósito. En el caso de Smartphone, la funcionalidad incluye la capacidad de realizar llamadas, enviar mensajes, navegar por Internet, y ejecutar aplicaciones de manera eficiente.
+            p.ps-5.mb-0 Esta característica se refiere a cómo el producto cumple con su propósito. En el caso de <i>Smartphone</i>, la funcionalidad incluye la capacidad de realizar llamadas, enviar mensajes, navegar por Internet, y ejecutar aplicaciones de manera eficiente.
           div(titulo="DURABILIDAD")
             p.ps-5.mb-0 La durabilidad como característica de un producto hace referencia a la capacidad de soportar un uso continuo sin que este pierda su funcionalidad, ni sufrir daños que sean significativos. Un ejemplo claro son los vehículos Toyota, conocidos por su alta durabilidad y resistencia a lo largo del tiempo (Churchill & Iacobucci, 2010).
 
@@ -119,16 +119,16 @@
 
     h3(data-aos='zoom-in-right').mb-5
       span.label-title.label-title--1 Características
-    
+    p.mb-5 El servicio se caracteriza por varias propiedades que los diferencian de los productos físicos. Entre las características más importantes tenemos:
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
-          |  Características de los servicios.
+          |  Características de los servicios
         .tabla-a.mb-5
           table
             caption 
-              p <b>Fuente.</b> Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018)
+              p <b>Fuente.</b> Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). Services marketing: Integrating customer focus across the firm (7th ed.). McGraw-Hill Education.
             thead
               tr
                 th Característica
@@ -177,7 +177,7 @@
 
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
-            p <b>Servicios empresariales:</b> se dirigen a otras entidades, lo que puede incluir consultorías, servicios de marketing, y servicios de tecnología de la información. Por ejemplo, una empresa como Accenture ofrece servicios de consultoría en tecnología de la información, incluyendo implementación de software, gestión de infraestructura de TI y soluciones en la nube. Ayudan a las empresas a adoptar nuevas tecnologías 
+            p <b>Servicios empresariales:</b> se dirigen a otras entidades, lo que puede incluir consultorías, servicios de <i>marketing</i>, y servicios de tecnología de la información. Por ejemplo, una empresa como Accenture ofrece servicios de consultoría en tecnología de la información, incluyendo implementación de <i>software</i>, gestión de infraestructura de TI y soluciones en la nube. Ayudan a las empresas a adoptar nuevas tecnologías y mejorar su eficiencia operativa.
           .col-12.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_1/img_17.png', class="img-fluid")
