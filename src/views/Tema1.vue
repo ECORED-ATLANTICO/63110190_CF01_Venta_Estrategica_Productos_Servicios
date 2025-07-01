@@ -39,7 +39,7 @@
           figure
             img.d-none.d-md-block(src='@/assets/curso/temas/tema_1/img_3.svg', alt='La figura 1 resalta las características que tiene un producto como lo son: Calidad: capacidad para cumplir con las expectativas. Diseño: apariencia, funcionalidad y facilidad de uso. Funcionalidad: cumple con su propósito. Durabilidad: soporta un uso continuo.').mx-auto
             img.d-block.d-md-none(src='@/assets/curso/temas/tema_1/img_3_movil.svg', alt='La figura 1 resalta las características que tiene un producto como lo son: Calidad: capacidad para cumplir con las expectativas. Diseño: apariencia, funcionalidad y facilidad de uso. Funcionalidad: cumple con su propósito. Durabilidad: soporta un uso continuo.').mx-auto
-            figcaption <b>Fuente.</b> SENA, 2025
+            figcaption <b>Fuente.</b> SENA, 2025.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario-10.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -128,7 +128,7 @@
         .tabla-a.mb-5
           table
             caption 
-              p <b>Fuente.</b> Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). Services marketing: Integrating customer focus across the firm (7th ed.). McGraw-Hill Education.
+              p <b>Fuente.</b> Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2018). <i>Services marketing: Integrating customer focus across the firm</i> (7th ed.). McGraw-Hill Education.
             thead
               tr
                 th Característica

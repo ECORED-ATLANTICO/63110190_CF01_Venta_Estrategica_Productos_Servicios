@@ -125,7 +125,7 @@
     .tabla-a.mb-5
       table
         caption 
-          p <b>Fuente.</b> Adaptado de Kotler, P., & Keller, K. L. (2016). Dirección de <i>marketing</i> (15.ª ed.). Pearson.
+          p <b>Fuente.</b> Adaptado de Kotler, P., & Keller, K. L. (2016). <i>Dirección de marketing</i> (15.ª ed.). Pearson.
         thead.text-white
           tr
             th Segmento
