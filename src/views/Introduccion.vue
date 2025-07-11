@@ -17,9 +17,8 @@
           img.h-100(src="../assets/curso/introduccion/img_1.png", class="img-fluid") 
 
     figure
-      img(src="../assets/curso/introduccion/img_2.png", class="img-fluid") 
-      //.video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VliKK2bWCfQ?si=l1wvAqo0L_AYmD-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
