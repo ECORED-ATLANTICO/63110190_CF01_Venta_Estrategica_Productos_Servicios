@@ -212,7 +212,7 @@ export default {
       significado: 'características estadísticas de los consumidores.',
     },
     {
-      termino: 'Estrategia de marketing',
+      termino: 'Estrategia de <i>marketing</i>',
       significado: 'plan para promocionar productos y servicios.',
     },
     {

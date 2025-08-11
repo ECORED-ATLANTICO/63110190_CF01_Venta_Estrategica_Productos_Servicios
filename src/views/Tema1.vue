@@ -59,7 +59,7 @@
           div(titulo="DISEÑO")
             p.ps-5.mb-0 El diseño no solo se refiere a la apariencia estética de un producto, sino también a su funcionalidad y facilidad de uso. Por ejemplo, en el caso de Dyson, sus aspiradoras y secadores de mano tienen un diseño innovador que maximiza la eficacia del producto (Armstrong & Kotler, 2017).
           div(titulo="FUNCIONALIDAD")
-            p.ps-5.mb-0 Esta característica se refiere a cómo el producto cumple con su propósito. En el caso de <i>Smartphone</i>, la funcionalidad incluye la capacidad de realizar llamadas, enviar mensajes, navegar por Internet, y ejecutar aplicaciones de manera eficiente.
+            p.ps-5.mb-0 Esta característica se refiere a cómo el producto cumple con su propósito. En el caso de <i>smartphone</i>, la funcionalidad incluye la capacidad de realizar llamadas, enviar mensajes, navegar por internet, y ejecutar aplicaciones de manera eficiente.
           div(titulo="DURABILIDAD")
             p.ps-5.mb-0 La durabilidad como característica de un producto hace referencia a la capacidad de soportar un uso continuo sin que este pierda su funcionalidad, ni sufrir daños que sean significativos. Un ejemplo claro son los vehículos Toyota, conocidos por su alta durabilidad y resistencia a lo largo del tiempo (Churchill & Iacobucci, 2010).
 
@@ -101,7 +101,7 @@
           .col-12.col-lg-6.order-2.order-lg-1.mb-3.mb-lg-0
             div.container
               h5.mb-3 Productos duraderos
-              p.mb-0 Se trata de productos que están hechos para ser utilizados durante un largo período sin deteriorarse fácilmente. Entre estos se encuentran los electrodomésticos, los muebles y los automóviles La marca LG se destaca en el mercado por fabricar electrodomésticos duraderos y confiables, lo que le ha permitido ganarse una sólida reputación en cuanto a calidad.
+              p.mb-0 Se trata de productos que están hechos para ser utilizados durante un largo período sin deteriorarse fácilmente. Entre estos se encuentran los electrodomésticos, los muebles y los automóviles. La marca LG se destaca en el mercado por fabricar electrodomésticos duraderos y confiables, lo que le ha permitido ganarse una sólida reputación en cuanto a calidad.
           .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema_1/img_13.png', class="img-fluid")

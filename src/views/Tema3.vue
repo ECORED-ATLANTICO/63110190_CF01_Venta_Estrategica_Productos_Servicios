@@ -136,25 +136,25 @@
         tbody
           tr
             td <b>Jóvenes adultos</b>
-            td Edad: 18-30 años, solteros.
+            td Edad: 18 - 30 años, solteros.
             td Estilo de vida activo y valoran la tecnología.
             td Zonas urbanas.
             td Compradores frecuentes de tecnología.
           tr
             td <b>Familias</b>
-            td Edad: 30-45 años, casados.
+            td Edad: 30 - 45 años, casados.
             td Buscan estabilidad y comodidad familiar.
             td Zonas suburbanas y rurales.
             td Compradores regulares de productos para el hogar.
           tr
             td <b>Lujosos</b>
-            td Edad: 35-55 años, ingresos altos.
+            td Edad: 35 - 55 años, ingresos altos.
             td Estilo de vida exclusivo y aprecian el lujo.
             td Ciudades grandes.
             td Compradores esporádicos de productos de alta gama.
           tr
             td <b>Ecológicos</b>
-            td Edad: 25-40 años, solteros.
+            td Edad: 25 - 40 años, solteros.
             td Preocupación por el medio ambiente.
             td Áreas con conciencia ecológica.
             td Compradores frecuentes de productos orgánicos.

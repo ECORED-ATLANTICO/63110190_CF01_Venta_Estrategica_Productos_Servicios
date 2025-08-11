@@ -20,7 +20,7 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -419,7 +419,7 @@ export default {
         {
           id: 18,
           texto:
-            'Un portafolio especializado se enfoca en una categoría específica y mejora el posicionamiento',
+            'Un portafolio especializado se enfoca en una categoría específica y mejora el posicionamiento.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
