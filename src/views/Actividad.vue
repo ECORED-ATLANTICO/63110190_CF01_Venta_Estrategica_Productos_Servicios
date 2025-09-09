@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Aspectos teóricos de productos y servicios en el mercado',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar la capacidad del aprendiz para manejas conceptos y por medio de ellos identificar, caracterizar y gestionar productos y servicios dentro de un portafolio de ventas, reconociendo las necesidades del mercado, el comportamiento del consumidor y la relación entre estos elementos para tomar decisiones que optimicen la oferta y fortalezcan la competitividad del negocio.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
